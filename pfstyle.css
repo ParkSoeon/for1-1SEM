@@ -1,0 +1,26 @@
+            body{background-color:#C20034;
+                }
+            .frame{ float: center; padding: 10% ; margin: 10% ; height: 100% ;
+                    background-color:azure; border-radius: 1.5%;}
+            div{text-decoration: none;}
+            div{text-decoration: none;}
+              a{text-decoration: none;
+                color : black;}
+            @media screen {
+                /*#box1{position: auto;
+                      text-align: right;}*/
+            #pic{position : relative;
+                 left : 60%;
+                 width: 50%;}
+            #ko.name{font-size: 200px;}/*doesn't work too*/
+            /*#pic{width: 50% ;}*/
+            .basic.info
+            {position : relative;
+             left : 20%;}
+            .picture_text
+            {position : relative;
+             left : 80%;
+              }
+
+
+            }
